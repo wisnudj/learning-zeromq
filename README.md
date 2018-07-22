@@ -19,4 +19,4 @@ $ make -j 4
 $ make check
 $ make install
 $ sudo ldconfig
-...
+```
