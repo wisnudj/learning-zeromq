@@ -9,7 +9,7 @@ by: Faruk Akgul
 
 ### Installation
 
-For zeromq installation, i build source code ZeroMQ from git on Linux Ubuntu 18.04.
+For zeromq installation, build source code ZeroMQ from git on Linux Ubuntu 18.04.
 
 ```sh
 $ git clone https://github.com/zeromq/libzmq
@@ -19,3 +19,4 @@ $ make -j 4
 $ make check
 $ make install
 $ sudo ldconfig
+...
